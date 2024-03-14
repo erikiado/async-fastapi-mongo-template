@@ -1,0 +1,10 @@
+# ignore python files
+.pyc
+.pyo
+*.pyc
+*.pyo
+
+#fastapi
+__pycache__
+
+
